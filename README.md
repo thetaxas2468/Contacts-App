@@ -1,3 +1,1 @@
-# Andriod-Contact-app
-
-Its about contact application for phone that has contacts 
+Contacts App (Mobile app): Mobile app that can save phone contacts and each contact has its information as needed, you can search a contact by their name and admin can add, delete and update contacts using his private password.
